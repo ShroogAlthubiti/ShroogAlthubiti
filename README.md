@@ -1,4 +1,4 @@
-### Hi there 👋
+ <img src="https://github.com/ShroogAlthubiti/ShroogAlthubiti/assets/48732692/78318f3b-a8fc-4060-8a28-c7f54015b4fd" width="700" height="500"/>
 
 <!--
 **ShroogAlthubiti/ShroogAlthubiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
